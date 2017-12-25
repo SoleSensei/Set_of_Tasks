@@ -45,6 +45,6 @@ Calculator.
     gcc -Wall -g Task2.x.c -o tx
     ./tx
 
-Full [documentation](./task2) on russian.
+Full [documentation](./task2.pdf) on russian.
 
 
